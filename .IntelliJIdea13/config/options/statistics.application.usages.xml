@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="IAAUMASv1" values="JDK_1_6" />
+    </group>
+    <group name="vcs">
+      <project id="IAAUMASv1" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="IAAUMASv1" values="web" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="IAAUMASv1" values="Apache Derby/10.10.1.1 - (1458268)" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="IAAUMASv1" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" />
+    </group>
+    <group name="module type">
+      <project id="IAAUMASv1" values="JAVA_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="IAAUMASv1" values="IDEA_MODULE,JAVA,XML,Images,PLAIN_TEXT,JSP,Properties,DATASOURCE_STORAGE,HTML,UNKNOWN" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="IAAUMASv1" values="org.apache.derby.jdbc.EmbeddedDriver" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="IAAUMASv1" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="IAAUMASv1" values="DEFAULT" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="5" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="13" />
+      <entry feature="execute.Application.Run" count="9" />
+    </counts>
+  </component>
+</application>
+

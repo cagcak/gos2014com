@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Dec 12 09:47:58 ALMT 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0142-e4eb-0a1d-000000a5de60 
+on database directory C:\Users\Administrator\IdeaProjects\IAAUMASv1\db\iaaumasDB with class loader sun.misc.Launcher$AppClassLoader@1f12c4e 
+Loaded from file:/C:/Derby/Distributions/db-derby-10.10.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_40-b43
+user.dir=C:\Users\Administrator\IdeaProjects\IAAUMASv1\db
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Dec 12 09:48:15 ALMT 2013: Shutting down Derby engine
+----------------------------------------------------------------
+Thu Dec 12 09:48:16 ALMT 2013:
+Shutting down instance a816c00e-0142-e4eb-0a1d-000000a5de60 on database directory C:\Users\Administrator\IdeaProjects\IAAUMASv1\db\iaaumasDB with class loader sun.misc.Launcher$AppClassLoader@1f12c4e 
+----------------------------------------------------------------

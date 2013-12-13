@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="shiro-web-1.2.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/shiro-web-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/shiro-web-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
